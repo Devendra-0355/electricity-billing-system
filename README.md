@@ -1,4 +1,21 @@
- # Electricity Billing System (Java + JDBC)
+ 
+ Electricity Billing System (Java + JDBC)
+
+How to explain:
+
+“This is a Java-based electricity billing system that calculates the bill amount based on units consumed using slab-wise logic. It also stores consumer details and bill amounts in a MySQL database using JDBC.”
+
+Key points to mention:
+
+->Slab-based billing logic
+
+->Uses JDBC for database connectivity
+
+->Uses PreparedStatement for security
+
+If asked what you learned:
+
+“I learned Java-database integration, SQL operations, and basic backend logic.”
 
 ## 📌 Project Overview
 This project is a Java-based Electricity Billing System that calculates electricity charges based on units consumed and stores the billing details in a MySQL database using JDBC.
